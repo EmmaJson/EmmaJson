@@ -5,19 +5,15 @@
 
 ## My GitHub Stats
 
-<p align="left">
-  <!-- GitHub Stats Card (uniform dimensions) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby&layout=compact" alt="GitHub Stats" width="350" height="150"/>
+<a href="https://github.com/emmajson"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby"></a>
 
-  <!-- GitHub Streak Stats (uniform dimensions) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby" alt="GitHub Streak Stats" width="350" height="150"/>
+<a href="https://github.com/emmajson">
+  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby"></a>
 
-  <!-- GitHub Languages (uniform dimensions) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&theme=great-gatsby&layout=compact" alt="Most Used Languages" width="350" height="150"/>
-</p>
+<p></p>
 
+<img width="47%" src="https://i.imgur.com/Gbxx90A.gif">
 
-![GitHub Snake Animation](https://github.com/EmmaJson/EmmaJson/blob/main/github-snake.svg)
 
 ## 🌐 Connect with me:
 
