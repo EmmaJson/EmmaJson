@@ -4,11 +4,11 @@
 
 ## 📊 My GitHub Stats
 
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=tokyonight)
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&layout=compact&theme=great-gatsby&langs_count=8&card_width=320)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=highcontrast&fire=orange&ring=blue&currStreakLabel=red)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby&fire=orange&ring=blue&currStreakLabel=red)
 
 ![GitHub Snake Animation](https://github.com/EmmaJson/EmmaJson/blob/main/github-snake.svg)
 
