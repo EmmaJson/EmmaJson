@@ -1,15 +1,19 @@
 # About me
 
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=dark)
+## 🚀 Tech Stack:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&layout=compact&theme=dark)
+## 📊 My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=dark)
+![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=highcontrast&fire=orange&ring=blue&currStreakLabel=red)
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/emma-johansson2) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmamhm2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmmaJson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EmmaJson&color=brightgreen)
