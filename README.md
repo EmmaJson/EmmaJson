@@ -5,14 +5,14 @@
 
 ## My GitHub Stats
 
-<a href="https://github.com/emmajson"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby"></a>
+<a href="https://github.com/emmajson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby"></a>
 
 <a href="https://github.com/emmajson">
-  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby"></a>
+  <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby"></a>
 
 <p></p>
 
-<img width="47%" src="https://i.imgur.com/Gbxx90A.gif">
+<img width="60%" src="https://i.imgur.com/Gbxx90A.gif">
 
 
 ## 🌐 Connect with me:
