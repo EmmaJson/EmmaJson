@@ -7,14 +7,14 @@
 ## My GitHub Stats
 
 <p align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby&layout=compact" alt="GitHub Stats" />
+  <!-- GitHub Stats Card (uniform dimensions) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby&layout=compact" alt="GitHub Stats" width="350" height="150"/>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats (uniform dimensions) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby" alt="GitHub Streak Stats" width="350" height="150"/>
 
-  <!-- GitHub Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&theme=great-gatsby&layout=compact" alt="Most Used Languages" />
+  <!-- GitHub Languages (uniform dimensions) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&theme=great-gatsby&layout=compact" alt="Most Used Languages" width="350" height="150"/>
 </p>
 
 
