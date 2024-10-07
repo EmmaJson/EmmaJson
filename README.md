@@ -6,7 +6,7 @@
 
 ## My GitHub Stats
 
-<p align="center">
+<p align="left">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby&layout=compact" alt="GitHub Stats" />
 
