@@ -4,11 +4,19 @@
 
 ## 📊 My GitHub Stats
 
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby)
+## My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&layout=compact&theme=great-gatsby&langs_count=8&card_width=320)
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmaJson&show_icons=true&theme=great-gatsby&layout=compact" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby&fire=orange&ring=blue&currStreakLabel=red)
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&theme=great-gatsby&layout=compact" alt="Most Used Languages" />
+</p>
+
 
 ![GitHub Snake Animation](https://github.com/EmmaJson/EmmaJson/blob/main/github-snake.svg)
 
