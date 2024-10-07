@@ -3,21 +3,21 @@
 ## Tech Stack:
 <p align="left">
   <!-- C Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Icon" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Icon" width="40" height="40"/>
 
   <!-- Java Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="40" height="40"/>
 </p>
 
 
 ## My GitHub Stats
 
+<p align="center">
 <a href="https://github.com/emmajson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby"></a>
 
 <a href="https://github.com/emmajson">
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby"></a>
-
-<p></p>
+</p>
 
 <img width="60%" src="https://i.imgur.com/Gbxx90A.gif">
 
