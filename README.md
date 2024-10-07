@@ -1,8 +1,7 @@
 # About me
 
-## 🚀 Tech Stack:
+## Tech Stack:
 
-## 📊 My GitHub Stats
 
 ## My GitHub Stats
 
