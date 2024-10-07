@@ -12,14 +12,14 @@
 
 ## My GitHub Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/emmajson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby"></a>
 
 <a href="https://github.com/emmajson">
   <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby"></a>
-</p>
 
-<img width="60%" src="https://i.imgur.com/Gbxx90A.gif">
+  <img width="60%" src="https://i.imgur.com/Gbxx90A.gif">
+</p>
 
 
 ## 🌐 Connect with me:
