@@ -1,6 +1,7 @@
 # About me
 
-### Tech Stack:
+### Tech Stack
+
 <p align="left">
   <!-- C Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Icon" width="40" height="40"/>
