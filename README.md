@@ -10,6 +10,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=highcontrast&fire=orange&ring=blue&currStreakLabel=red)
 
+![GitHub Snake Animation](https://github.com/EmmaJson/EmmaJson/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin) 
