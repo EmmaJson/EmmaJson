@@ -12,8 +12,9 @@
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/emma-johansson2)
-[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:emmamhm2@gmail.com)
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/emmajson)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/emma-johansson2)
+[![Email](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:emmamhm2@gmail.com)
+[![GitHub](https://img.icons8.com/fluency/48/ffd700/github.png)](https://github.com/EmmaJson)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EmmaJson&color=yellow)
