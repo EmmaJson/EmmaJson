@@ -1,5 +1,5 @@
 ## My GitHub Stats
-<img align="right" width="45%" padding="0" src="https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif"/>
+<img align="right" width="43%" padding="0" src="https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif"/>
 <p align="left">
 <a  href="https://github.com/emmajson">
     <img width="52%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby&bg_color=000000&title_color=00d7ff&text_color=00d7ff&icon_color=00d7ff&hide_border=true&border_radius=0" />
