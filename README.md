@@ -1,16 +1,3 @@
-# About me
-
-### Tech Stack
-
-<p align="left">
-  <!-- C Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Icon" width="40" height="40"/>
-
-  <!-- Java Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="40" height="40"/>
-</p>
-
-
 ### My GitHub Stats
 
 <p align="left">
