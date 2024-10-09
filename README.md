@@ -6,10 +6,10 @@
 </a>
   
 <a href="https://github.com/emmajson">
-  <img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby&background=000000&hide_border=true&stroke=00d7ff&ring=00d7ff&fire=00d7ff&currStreakNum=00d7ff&sideNums=00d7ff&currStreakLabel=00d7ff&sideLabels=00d7ff&dates=00d7ff"> <a/>
+  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby&background=000000&hide_border=true&stroke=00d7ff&ring=00d7ff&fire=00d7ff&currStreakNum=00d7ff&sideNums=00d7ff&currStreakLabel=00d7ff&sideLabels=00d7ff&dates=00d7ff"> <a/>
 
 
-  <img width="40%" src="https://i.imgur.com/Gbxx90A.gif">
+  <img width="45%" src="https://i.imgur.com/Gbxx90A.gif">
 </p>
 
 
