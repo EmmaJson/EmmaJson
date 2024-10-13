@@ -8,7 +8,7 @@
 [![Email](https://img.icons8.com/ios/40/00d7ff/mail.png)](mailto:emmamhm2@gmail.com) 
 [![GitHub](https://img.icons8.com/glyph-neue/40/00d7ff/github.png)](https://github.com/EmmaJson)
 
-## ⚡ My GitHub Stats
+## 📊 My GitHub Stats
 
 <!--
 <a href="https://github.com/EmmaJson">
