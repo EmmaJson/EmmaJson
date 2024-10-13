@@ -4,9 +4,9 @@
 #### 📍 Stockholm, Sweden
 #### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.icons8.com/ios/30/00d7ff/linkedin.png)](https://www.linkedin.com/in/emma-johansson2) 
-[![Email](https://img.icons8.com/fluency/30/000000/gmail-new.png)](mailto:emmamhm2@gmail.com) 
-[![GitHub](https://img.icons8.com/fluency/30/ffd700/github.png)](https://github.com/EmmaJson)
+[![LinkedIn](https://img.icons8.com/metro/40/00d7ff/linkedin.png)](https://www.linkedin.com/in/emma-johansson2) 
+[![Email](https://img.icons8.com/ios/40/00d7ff/mail.png)](mailto:emmamhm2@gmail.com) 
+[![GitHub](https://img.icons8.com/glyph-neue/40/00d7ff/github.png)](https://github.com/EmmaJson)
 
 ## ⚡ My GitHub Stats
 
