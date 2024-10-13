@@ -30,4 +30,4 @@
   <img width="56%" src="https://i.imgur.com/Gbxx90A.gif" alt="Fun GIF">
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EmmaJson&color=blue&label=Visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=EmmaJson&color=00d7ff&label=Profile+Visitors&style=for-the-badge)
