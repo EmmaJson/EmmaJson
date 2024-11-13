@@ -17,7 +17,7 @@
 
 ## 📊 My GitHub Stats
 
-<img align="right" width="32%" src="https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif" alt="Dancing Cat" />
+<img align="right" width="40%" src="https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif" alt="Dancing Cat" />
 
 <p align="left" style="padding:0;">
   <a href="https://github.com/EmmaJson">
