@@ -25,10 +25,6 @@
   </a>
   
   <a href="https://github.com/EmmaJson">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaJson&theme=great-gatsby&background=000000&hide_border=true&stroke=00d7ff&ring=00d7ff&fire=00d7ff&currStreakNum=00d7ff&sideNums=00d7ff&currStreakLabel=00d7ff&sideLabels=00d7ff&dates=00d7ff" alt="GitHub Streak Stats" />
-  </a>
-
-  <a href="https://github.com/EmmaJson">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaJson&theme=great-gatsby&background=000000&hide_border=true&stroke=00d7ff&ring=00d7ff&fire=00d7ff&currStreakNum=00d7ff&sideNums=00d7ff&currStreakLabel=00d7ff&sideLabels=00d7ff&dates=00d7ff" alt="Top Languages" />
 </a>
   
