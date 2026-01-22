@@ -20,9 +20,6 @@
 <!--  <img align="left" width="20%" src="https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif" alt="Dancing Cat" /> -->
 
 <p align="left" style="padding:10;">
-  <a href="https://github.com/EmmaJson">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=EmmaJson&theme=great-gatsby&bg_color=000000&title_color=00d7ff&text_color=00d7ff&icon_color=00d7ff&hide_border=true&border_radius=0" alt="GitHub Stats" />
-  </a>
   
   <img width="40%" src="https://i.imgur.com/Gbxx90A.gif" alt="Fun GIF">
 </p>
