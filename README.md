@@ -22,5 +22,3 @@
 <p align="left" style="padding:10;">
   <img width="40%" src="https://i.imgur.com/Gbxx90A.gif" alt="GIF">
 </p>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=EmmaJson&color=00d7ff&label=Profile+Visitors&style=for-the-badge&abbreviated=true)
