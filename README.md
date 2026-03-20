@@ -1,8 +1,10 @@
+
+
 ## About me
 
 ```json
 {
-  "name": "Emma Johansson",
+  "name": "Emma",
   "located_in": "Stockholm, Sweden",
   "occupation": "Student at KTH",
   "education":
